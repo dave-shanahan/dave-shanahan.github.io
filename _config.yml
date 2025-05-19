@@ -62,30 +62,27 @@ author:
   avatar : "/assets/images/dave-shanahan.webp"
   bio    : "Software Engineer & Security Consultant."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.daveshanahan.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "_https://github.com/dave-shanahan/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/0ds01/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/dave-shanahan/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:hello@daveshanahan.com"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/0ds01/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dave-shanahan/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/0ds01/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:hello@daveshanahan.com"
 
 defaults:
   # _posts
