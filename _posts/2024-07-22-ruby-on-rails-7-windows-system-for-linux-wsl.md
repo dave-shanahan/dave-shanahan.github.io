@@ -1,6 +1,9 @@
 ---
 title: "Ruby on Rails 7: Windows Subsystem for Linux (WSL)"
 date: 2024-07-22T15:34:30-04:00
+toc: true
+toc_label: "Contents"
+toc_sticky: true
 categories:
   - blog
 tags:

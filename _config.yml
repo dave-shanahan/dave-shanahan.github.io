@@ -16,9 +16,7 @@
 title: Dave Shanahan
 email: hello@daveshanahan.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  David Shanahan software engineering & security blog and portfolio.
 twitter_username: 0ds01
 github_username: dave-shanahan
 minimal_mistakes_skin: default
@@ -63,16 +61,20 @@ author:
   name   : "Dave Shanahan"
   avatar : "/assets/images/dave-shanahan.webp"
   bio    : "Software Engineer & Security Consultant."
+  location: "Liverpool, UK"
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/dave-shanahan/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/0ds01/"
     - label: "Email"
-      icon: "fas fa-fw fa-envelope"
+      icon: "fas fa-fw fa-square-envelope"
       url: "mailto:hello@daveshanahan.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dave-shanahan/"
 
 footer:
   links:
@@ -98,6 +100,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
