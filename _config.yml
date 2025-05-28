@@ -24,6 +24,11 @@ search: true
 
 enable_copy_code_button: true
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-3Y55EXSF2T"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
