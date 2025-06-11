@@ -16,11 +16,11 @@ After 18 months, I joined a team tasked with creating an internal sales platform
 
 In late 2023, I decided to set up my own company with the intention of producing a SaaS application. To supplement my income, I took contract work in the security field. Unfortunately, my business was not sustainable but I was thankful for the experience as I learned a great amount in terms of business and technical fields.
 
-## Competitive Programming
+<!-- ## Competitive Programming
 
 ### Codewars
 
 [![Codewars Stats](https://www.codewars.com/users/uds0/badges/large)](https://www.codewars.com/users/uds0){:target="_blank"}
 
 ### Leetcode 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ds0)](https://leetcode.com/u/ds0/){:target="_blank"}
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ds0)](https://leetcode.com/u/ds0/){:target="_blank"} -->

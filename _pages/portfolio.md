@@ -6,7 +6,7 @@ classes: wide
 
 <a href="https://sapientia-interactiva.daveshanahan.com">![Sapientia interactiva main image one](/assets/images/portfolio/Sapientia-interactiva-main-1.png)</a>
 
-## Sapientia interactiva
+## Sapientia Interactiva
 
 [View Application](https://sapientia-interactiva.daveshanahan.com) / [Source](https://github.com/dave-shanahan/Sapientia-Interactiva)
 
